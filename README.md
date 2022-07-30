@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fatehkhann
 - 👀 I’m interested in iOS and other emerging frameworks of it
-- 🌱 I’m currently learning SwiftUI and ARKit
+- 🌱 I can't imagine working without SwiftUI and ARKit
 - 📫 reach me at: fatehkhann@gmail.com
 
 <!---
