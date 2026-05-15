@@ -1,5 +1,5 @@
 - 👋 Hi, I am Fateh
-- 👀 I’m interested in iOS and other emerging frameworks of it
+- 👀 I work on iOS and other emerging frameworks of it
 - 🌱 I can't imagine working without SwiftUI and Swift.
 - 📫 reach me at: fatehkhann@gmail.com
 
